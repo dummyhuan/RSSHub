@@ -164,6 +164,12 @@ path="/metmusem/exhibitions/:state?"
 
 </Route>
 
+## 中国南方航空
+
+### 通知公告
+
+<Route author="dummyhuan" example="/csair/announcement" path="/csair/announcement" radar="1" />
+
 ## 走进日本
 
 <Route author="laampui" example="/nippon/Politics" path="/nippon/:category?" :paramsDesc="['默认政治，可选如下']">
